@@ -12,7 +12,7 @@ class CensorYourself
             'wank' => '****',
             'fag' => '***',
             'faggot' => '******',
-            'nigger' => '** I AM A BAD PERSON **',
+            'nigger' => '****',
             'asshole' => '*******',
             'arsehole' => '********',
             'retard' => '******'
